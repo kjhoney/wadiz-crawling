@@ -1,0 +1,14 @@
+{
+  "name": "crawling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kjhoney/wadiz-crawling.git",
+  "author": "kjhoney <kjhkjh3922@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "macro": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
