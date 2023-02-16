@@ -1,5 +1,5 @@
-# NaverBlogMacro
-네이버 블로그 서로이웃 추가 매크로 for 거니
+# wadiz-crawling
+wadiz를 크롤링해보자 for 나뭉
 
 ## 설치
 ```sh
